@@ -1,5 +1,5 @@
 # sage-html5boilerplate
-This is an HTML5-Boilerplate package with the awesome workflow of the sage-template by roots.io ([https://github.com/roots/sage](https://github.com/roots/sage)).
+This is an HTML5-Boilerplate ([https://github.com/h5bp/html5boilerplate.com](https://github.com/h5bp/html5boilerplate.com)) package with the awesome workflow of the sage-template by roots.io ([https://github.com/roots/sage](https://github.com/roots/sage)).
 
 ## Requirements
 
@@ -66,5 +66,6 @@ If your local development URL looks like `http://localhost:8888/project-name/` y
 
 ## References
 
+* [https://github.com/h5bp/html5boilerplate.com](https://github.com/h5bp/html5boilerplate.com)
 * [https://roots.io/sage/docs/](https://roots.io/sage/docs/).
 
