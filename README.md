@@ -67,5 +67,5 @@ If your local development URL looks like `http://localhost:8888/project-name/` y
 ## References
 
 * [https://github.com/h5bp/html5boilerplate.com](https://github.com/h5bp/html5boilerplate.com)
-* [https://roots.io/sage/docs/](https://roots.io/sage/docs/).
+* [https://roots.io/sage/docs/](https://roots.io/sage/docs/)
 
